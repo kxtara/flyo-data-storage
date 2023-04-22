@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>Flyo Data Storage Component</title>
+  </head>
+  <body>
+    <main>
+      <div class="fylo">
+        <img id="brand-logo" src="images/logo.svg" alt="flyo logo" />
+        <div class="icons">
+          <img src="images/icon-document.svg" alt="document logo" />
+          <img src="images/icon-folder.svg" alt="folder logo" />
+          <img src="images/icon-upload.svg" alt="upload logo" />
+        </div>
+      </div>
+      <div class="storage">
+        <p id="main-text">
+          You've used
+          <span id="bold-text">815 GB</span>
+          of your storage
+        </p>
+        <div class="storage-bar">
+          <div class="used-storage">
+            <div class="white-circle"></div>
+          </div>
+        </div>
+        <p id="amount-of-storage">
+          <span id="zeroGB">0 <span>GB</span></span>
+          <span id="1000GB">1000 <span>GB</span></span>
+        </p>
+      </div>
+      <div class="GB-left">
+        <span id="number-gb-left"
+          >185 <span id="gb-left-text">GB LEFT</span></span
+        >
+      </div>
+      <div class="triangle"></div>
+    </main>
+  </body>
+</html>
