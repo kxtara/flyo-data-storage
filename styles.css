@@ -147,7 +147,10 @@ span#gb-left-text {
     column-gap: 1.5rem;
   }
   .fylo {
-    width: 22.4375rem;
+    width: 24.4375rem;
+    height: 14rem;
+    border-radius: 0.5rem 7.5rem 0.5rem 0.5rem;
+
   }
   #brand-logo {
     margin: 3rem 0 1rem 2.5rem;
@@ -163,7 +166,7 @@ span#gb-left-text {
   }
   .storage {
     width: 33.4375rem;
-    height: 10.749rem;
+    height: 9.749rem;
     margin-top: 4.3rem;
   }
   .white-circle {
