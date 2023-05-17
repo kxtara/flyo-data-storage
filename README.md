@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [()]
+- Solution URL: [(https://www.frontendmentor.io/solutions/flyo-data-storage-component-nvbDn8-cw6)]
 - Live Site URL: [(https://kxtara.github.io/flyo-data-storage/)]
 
 ## My process
@@ -75,5 +75,6 @@ I want to continue doing these challenges to practice my skills and figure thing
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kxtara)
-- Twitter - [@yourusername](https://www.twitter.com/kiarahoheb)
+- Frontend Mentor - [@kxtara](https://www.frontendmentor.io/profile/kxtara)
+- Twitter - [@kiarahoheb](https://www.twitter.com/kiarahoheb)
+- LinkedIn - [@kiarahoheb](https://www.linkedin.com/in/kiara-hoheb-641157244/)
