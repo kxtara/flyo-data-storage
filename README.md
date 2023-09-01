@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://www.frontendmentor.io/solutions/flyo-data-storage-component-nvbDn8-cw6)]
-- Live Site URL: [(https://kxtara.github.io/flyo-data-storage/)]
+- [Solution URL](https://www.frontendmentor.io/solutions/flyo-data-storage-component-nvbDn8-cw6)
+- [Live Site URL](https://kxtara.github.io/flyo-data-storage/)
 
 ## My process
 
